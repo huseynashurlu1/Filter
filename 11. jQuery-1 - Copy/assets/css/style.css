@@ -1,0 +1,14 @@
+img {
+  width: 50px;
+}
+
+#users {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style: none;
+  background-color: peru;
+  width: 20%;
+}/*# sourceMappingURL=style.css.map */
